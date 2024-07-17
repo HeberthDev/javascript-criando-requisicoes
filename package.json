@@ -1,0 +1,22 @@
+{
+  "name": "javascript-criando-requisicoes",
+  "version": "1.0.0",
+  "description": "Curso \"JavaScript: criando requisições\" da plataforma Alura.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HeberthDev/javascript-criando-requisicoes.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HeberthDev/javascript-criando-requisicoes/issues"
+  },
+  "homepage": "https://github.com/HeberthDev/javascript-criando-requisicoes#readme",
+  "dependencies": {
+    "json-server": "^1.0.0-beta.1"
+  }
+}
